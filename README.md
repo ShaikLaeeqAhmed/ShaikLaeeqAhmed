@@ -12,7 +12,7 @@
 - 📫 **How to reach me:** alaeeq359@gmail.com
 - 😄 **Pronouns:** Shaik Laeeq Ahmed
 - ⚡ **Fun fact:** I love technology—and technology keeps challenging me to grow every day 🚀
-- 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/laeeq_ahmed10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaiklaeeqahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alaeeq359@gmail.com) 
 
